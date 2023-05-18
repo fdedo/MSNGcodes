@@ -23,7 +23,6 @@ lnS = np.ndarray(shape = (iteration, M))
 #TLD random numbers are extracted from a file with 10^8 deviates previously generated.
 #Shuffling and reshaping allows to pick once each number in the file.
 #Comment the lines below for the Gaussian simulation.
-#data_tld = np.genfromtxt(fname='/Users/fedededo/Desktop/TESI/tldrandomnumbers.txt')
 data_tld = np.genfromtxt(fname='/path/tldrandomnumbers.txt')
 random.shuffle(data_tld)
 data_i= data_tld[0:size]
