@@ -14,4 +14,4 @@ In this repository you can find a couple of codes written for the paper **F. De 
 
 **Drive folder**: https://drive.google.com/file/d/1ecn7C_Qkfk-qEyw-OjZseTu8Qte5Di-c/view?usp=share_link
 
-For a more extensive discussion of the topics, please see Section 4.3.
+For a more extensive discussion of the topics, please see Section 4.3 of the paper.
