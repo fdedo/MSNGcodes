@@ -19,7 +19,7 @@ data_time = []
 lnS = np.ndarray(shape = (iterations, M))
 
 
-#TLD random numbers are extracted from a file with 10^8 deviates previously generated.
+#TLD random numbers are extracted from a file containing 10^8 deviates previously generated.
 #Shuffling and reshaping allows to pick once each number in the file.
 #Comment the lines below for the Gaussian simulation.
 
