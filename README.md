@@ -1,5 +1,5 @@
 # MSNGcodes
-In this repository you can find a couple of codes written for the paper "**F. De Domenico, G. Livan, G. Montagna et al., Modeling and simulation of financial returns under non-Gaussian distributions, Physica A (2023)**".
+In this repository you can find a couple of codes written for the paper **F. De Domenico, G. Livan, G. Montagna et al., Modeling and simulation of financial returns under non-Gaussian distributions, Physica A (2023)**.
 For a more extensive discussion of the topics, please see Section 4.3.
 
 
