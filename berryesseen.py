@@ -3,8 +3,6 @@ import random
 from scipy import stats
 
 #Computation of Berry-Esseen Monte Carlo bound as explained in the paper
-#F. De Domenico, G. Livan, G. Montagna et al., Modeling and simulation of financial returns
-#under non-Gaussian distributions, Physica A (2023), doi: https://doi.org/10.1016/j.physa.2023.128886
 
 #parameters
 S0 = 1 #asset price at time zero
