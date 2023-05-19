@@ -8,7 +8,7 @@ In this repository you can find some codes written for the paper **F. De Domenic
 
 - In _mfpt.py_ you can find an example of the computation of the **first mean passage time** (mFPT). This variable gives information
   about the first time a stochastic process hits a specific threshold U starting from a fixed initial value. 
-  As above, it is necessary to download the file _tldrandomnumbers.txt_ to correctly implement a comparison of the Gaussian and 
+  As above, it is necessary to download the file _tldrandomnumbers.txt_ to correctly implement a comparison between the Gaussian and 
   non-Gaussian scenarios, as reported in the paper. 
 
 **Drive folder**: https://drive.google.com/file/d/1ecn7C_Qkfk-qEyw-OjZseTu8Qte5Di-c/view?usp=share_link
