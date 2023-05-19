@@ -1,8 +1,8 @@
 import numpy as np
 import random
 
-#Computation of the firt mean passage time (mFPT). This variable gives information about the first time a stochastic process hits
-#a specific threshold U starting from a fixed initial value.
+#Computation of the firt mean passage time (mFPT). This variable gives information about the first time
+#a stochastic process hits a specific threshold U starting from a fixed initial value.
 
 #parameters
 S0 = 1 #asset price at time zero
