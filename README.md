@@ -3,8 +3,7 @@ In this repository you can find some codes written for the paper **F. De Domenic
 
 - In _berryesseen.py_ the computation of the Monte Carlo bound for the **Berry-Esseen theorem** is implemented. 
   To run the code, the file _tldrandomnumbers.txt_ is provided in an external Drive folder. This file stores 10^8 random numbers 
-  extracted from the Truncated Lévy distribution with zero mean and variance equal to one over the bounded region [-30,30], with    
-  parameter alpha = 1.5, lambda = 0.18, gamma = 0.4.
+  extracted from the Truncated Lévy distribution with zero mean and variance equal to one over the bounded region [-30,30], with        parameter alpha = 1.5, lambda = 0.18, gamma = 0.4.
 
 
 - In _mfpt.py_ you can find an example of the computation of the **first mean passage time** (mFPT). This variable gives information
