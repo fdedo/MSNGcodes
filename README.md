@@ -1,4 +1,4 @@
-In this repository you can find some codes developed for the paper **F. De Domenico, G. Livan, G. Montagna, O. Nicrosini, Modeling and simulation of financial returns under non-Gaussian distributions, Physica A (2023)**.
+In this repository you can find some codes developed for the paper **De Domenico, F., Livan, G., Montagna, G., & Nicrosini, O. (2023). Modeling and simulation of financial returns under non-Gaussian distributions. Physica A: Statistical Mechanics and its Applications, 622, 128886**.
 
 - In _berryesseen.py_ the computation of the Monte Carlo bound for the **Berry-Esseen theorem** is implemented. 
   To run the code, the file _tldrandomnumbers.txt_ is provided in an external Drive folder. This file stores 10^8 random numbers 
